@@ -1,4 +1,4 @@
-- 👋 Hi, I’m WEZZY NGULUBE
+- 👋 Hi, I’m WEZZY NGULUBE software engineer 
 - 👀 I’m interested in solving complex problems and developing innovative solutions.
 - 🌱 I’m currently learning Laravel and Vue.js to enhance my web development skills.
 - 💞️ I’m looking to collaborate on open-source projects and web development initiatives.
@@ -9,7 +9,7 @@
 ## 🔧 Technologies & Tools
 - Programming Languages: JavaScript, PHP, Python,java,c++
 - Frameworks: Laravel, Vue.js
-- Tools: Git 
+- Tools: Git ,vs , phpstorm
 
 
 ## 📈 GitHub Stats

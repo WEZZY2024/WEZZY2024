@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love exploring new technologies and sharing knowledge with the community.
 
 ## 🔧 Technologies & Tools
-- Programming Languages: JavaScript(type script/node js), PHP,java,c++
+- Programming Languages: JavaScript(typescript/node js), PHP,java,c++
 - Frameworks: Laravel
 - Tools: Git ,vs , phpstorm
 

@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Laravel to enhance my web development skills.
 - 💞️ I’m looking to collaborate on open-source projects and web development initiatives.
 - 📫 How to reach me: ngulubewezzy@outlook.com
-- 😄 Pronouns: tech boy
+- 😄 Pronouns: MFUNSA 🦁
 - ⚡ Fun fact: I love exploring new technologies and sharing knowledge with the community.
 
 ## 🔧 Technologies & Tools

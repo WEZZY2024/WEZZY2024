@@ -19,3 +19,6 @@
 - [LinkedIn](https://www.linkedin.com/in/wezzy-ngulube/)
 - [Twitter](https://twitter.com/wezzy_ngulube)
 
+  [![My Skills]
+(https://skillicons.dev/icons?i=js,html,css,js,cpp,django,figma,flask,firebase,git,java,laravel,mysql,mongodb,py,spring,tailwind,xd)](https://skillicons.dev)
+

@@ -7,9 +7,7 @@
 - ⚡ Fun fact: I love exploring new technologies and sharing knowledge with the community.
 
 ## 🔧 Technologies & Tools
-- Programming Languages: JavaScript(typescript/node js), PHP,java,c++
-- Frameworks: Laravel
-- Tools: Git ,vs , phpstorm
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,cpp,django,figma,flask,firebase,git,java,laravel,mysql,mongodb,py,spring,tailwind,xd,atom,aws,azure,bootstrap,clion,discord,docker,github,idea,ps,php,phpstorm)(https://skillicons.dev)]
 
 
 ## 📈 GitHub Stats
@@ -19,5 +17,5 @@
 - [LinkedIn](https://www.linkedin.com/in/wezzy-ngulube/)
 - [Twitter](https://twitter.com/wezzy_ngulube)
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,cpp,django,figma,flask,firebase,git,java,laravel,mysql,mongodb,py,spring,tailwind,xd)](https://skillicons.dev)]
+ 
 

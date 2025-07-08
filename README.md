@@ -1,6 +1,6 @@
 - 👋 Hi, I’m WEZZY NGULUBE software engineer 
 - 👀 I’m interested in solving complex problems and developing innovative solutions.
-- 🌱 I’m currently learning Laravel to enhance my web development skills.
+- 🌱 I’m currently learning fullstack development to enhance my web development skills.
 - 💞️ I’m looking to collaborate on open-source projects and web development initiatives.
 - 📫 How to reach me: ngulubewezzy@outlook.com
 - 😄 Pronouns: MFUNSA 🦁

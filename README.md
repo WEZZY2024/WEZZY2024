@@ -1,8 +1,8 @@
 - 👋 Hi, I’m WEZZY NGULUBE software engineer 
-      solving complex problems and developing innovative solutions.
-      currently learning fullstack development.
-      I’m looking to collaborate on open-source projects and web development initiatives.
-      How to reach me: ngulubewezzy@outlook.com
+   -   solving complex problems and developing innovative solutions.
+   -   currently learning fullstack development.
+   -   I’m looking to collaborate on open-source projects and web development initiatives.
+   -   How to reach me: ngulubewezzy@outlook.com
 
 
 ## 🔧 Technologies & Tools

@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love exploring new technologies and sharing knowledge with the community.
 
 ## 🔧 Technologies & Tools
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,django,figma,flask,firebase,git,java,laravel,mysql,mongodb,py,spring,tailwind,xd,atom,aws,azure,bootstrap,clion,discord,docker,github,idea,ps,php,phpstorm)](https://skillicons.dev)]
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,java,laravel,mysql,mongodb,py,spring,tailwind,xd,atom,aws,azure,bootstrap,clion,discord,docker,github,idea,ps,php,phpstorm)](https://skillicons.dev)]
 
 
 ## 📈 GitHub Stats

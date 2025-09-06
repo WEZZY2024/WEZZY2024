@@ -1,10 +1,9 @@
 - 👋 Hi, I’m WEZZY NGULUBE software engineer 
-- 👀 I’m interested in solving complex problems and developing innovative solutions.
-- 🌱 I’m currently learning fullstack development.
-- 💞️ I’m looking to collaborate on open-source projects and web development initiatives.
-- 📫 How to reach me: ngulubewezzy@outlook.com
-- 😄 Pronouns: MFUNSA 🦁
-- ⚡ Fun fact: I love exploring new technologies and sharing knowledge with the community.
+      solving complex problems and developing innovative solutions.
+      currently learning fullstack development.
+      I’m looking to collaborate on open-source projects and web development initiatives.
+      How to reach me: ngulubewezzy@outlook.com
+
 
 ## 🔧 Technologies & Tools
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,java,laravel,mysql,mongodb,py,spring,tailwind,xd,bootstrap,clion,discord,github,idea,ps,php,phpstorm)](https://skillicons.dev)]

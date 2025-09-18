@@ -6,7 +6,7 @@
 
 
 ## 🔧 Technologies & Tools
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,java,laravel,mysql,mongodb,py,react,tailwind,bootstrap,discord,github,idea,php,phpstorm)](https://skillicons.dev)]
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,java,laravel,mysql,py,react,tailwind,bootstrap,discord,github,idea,php,phpstorm)](https://skillicons.dev)]
 
 
 ## 📈 GitHub Stats

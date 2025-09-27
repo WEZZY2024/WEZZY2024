@@ -9,12 +9,10 @@
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,java,laravel,mysql,py,react,tailwind,bootstrap,discord,github,nodejs,expressjs,mongodb,idea,php,phpstorm)](https://skillicons.dev)]
 
 
-## 📈 GitHub Stats
-![WEZZY's GitHub stats](https://github-readme-stats.vercel.app/api?username=WEZZY2024&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/wezzy-ngulube/)
-- [Twitter](https://twitter.com/wezzy_ngulube)
+
 
  
 

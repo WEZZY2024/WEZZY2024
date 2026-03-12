@@ -1,5 +1,5 @@
-- 👋 Hi, I’m WEZZY NGULUBE — Backend developer .
- 
+- 👋 Hi, I’m WEZZY NGULUBE —  junior Backend developer and a software engineering student.
+
  
 
 
